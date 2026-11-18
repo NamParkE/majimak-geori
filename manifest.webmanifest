@@ -1,0 +1,18 @@
+{
+  "name": "거리 — 끝내지 못한 굿",
+  "short_name": "거리",
+  "description": "굿은 끝내야 문이 열린다 — 브라우저 한국 민속 호러 방탈출",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#0a0806",
+  "theme_color": "#0a0806",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
